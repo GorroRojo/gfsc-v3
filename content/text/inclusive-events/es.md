@@ -31,42 +31,43 @@ Este fanzine entonces apunta a ayudarte a hacer dos cosas:
 
 > Gente simplemente aceptando la identidad que digo que tengo. Eso es todo.
 
-> Cuando les organizadores ofrecen toda la inforamción que pueden para que la gente pueda tomar buenas decisiones.
+> Cuando les organizadores ofrecen toda la inforamción posible para que la gente pueda tomar mejores decisiones.
+
+> ¡Baños sin distinción de género! Todes te dicen sus pronombres.
+
+#### Si te sentís cómode, describí una mala experiencia que tuviste en un evento.
+
+> Donde sea que vaya donde mi nombre se cuestionado, es suficiente para que yo sepa si es inclusivo.
+
+> Parades en un bar con une amigue, una persona se nos acerca y pregunta si soy tv o rd [travesti o cross-dresser], luego me pregunta si soy pre o post-op. Literalmente estoy tomando algo con une amigue.
+
+#### Qué más tenemos que saber sobre hacer que los eventos sean más inclusivos a personas trans?
+
+> La accesibilidad no se trata solamente del espacio físico. A veces se trata de la actitud de la gente dentro.
+
+> Tiene que haber un acceso seguro a los baños para personas trans y les invitades del evento tienen que ser respetuoses entre sí, incluyendo llamar a la gente por los nombres/pronombres que quieren que se les llame.
+
+> Está bueno cuando tenemos reglas generales en un evento que incluyen aceptar lo que la gente diga que es su género. Y que recuerden que algunes somos discapacitades.
+
+> Atreverse a tomar decisiones con integridad para proteger a la gente. No dejar que la gente salga lastimada solo para _complacer_ a la gente en tu inmediatez. 
+
+## Parte 1: Guía de accesibilidad
+### _"Me puedo sumar"_
+#### El acceso es personal. No hay reglas duras y fáciles. Es importante recordar que lo que hace que un evento sea accesible para una persona, puede que lo haga inaccesible para otra.
+
+Lo único que podemos hacer es acercarnos al tema con transparencia y con cuidado hacia nuestras comunidades. Este documento en crecimiento es una guía a qué hace que los eventos sean accesibles para nuestra comunidad. Cualquier sugerencia o devolución es bienvenida vía [info@transdimension.uk](mailto:info@transdimension.uk)
+
+
+### ¿Qué es la accesibilidad?
+
+La accesibilidad se trata de distribuir el trabajo. Las personas en nuestras comunidades ya están haciendo un esfuerzo extra para acceder a espacios todos los días. Nuestro trabajo es bajar las barreras de participacion para nuestros grupos y eventos.
+
+Queremos una comunidad capaz de participar por completo. Y que todes quienes quieran participar puedan asistir de forma auténtica y segura.
+
+### ¿En qué debería estar pensando?
+
+
 <!-- i am a translation line to better track translation progress, hello! -->
-
-> When organisers volunteer as much information as they can so that people are able to make good choices. 
-
-> Gender neutral toilets! Everyone tells you their pronouns. 
-
-#### If you feel comfortable, describe a bad expeirence you've had at an event. 
-
-> Anywhere I go where my name is questioned is enough to tell me whether it's inclusive. 
-
-> Stood at a bar with a friend, and a person comes up to ask if I'm tv or cd [transvestite or cross dresser], then he asks if I'm pre or post op. I'm literally just having a drink with a friend.
-
-#### What else do we need to know about making events trans inclusive? 
-
-> Accessibility isn't just about the physical environment. Sometimes it's about the attitude of the people inside. 
-
-> There has to be safe access to toilets for trans people and the guests at said event have to be able to be respectful to each other, including calling people the correct name/pronouns they actually want to be called.
-
-> It's cool when we have event ground rules that include accepting what people say their gender is. And that they remember some of us are disabled. 
-
-> Make bold choices with integrity that protect folks. Don't let folks get hurt just because doing so is _nice_ to the people immediately around you. 
-
-## Part 1: Accessibility Guide 
-### _"I can join in"_
-#### Access is personal. There are no hard and fast rules. It's important to remember that what makes an event accessible to one person may make it impossible for another. 
-
-All we can do is approach this with transparency and care for our communities. This document is a working and evolving guide to what makes events accessible for our community. We welcome any additions or feedback via [info@transdimension.uk](mailto:info@transdimension.uk)
-
-### What is accessibility?
-
-Accessibility is about sharing the labour. People in our communities are already making extra effort to access spaces every day. Our job is to lower barriers to participation for our groups and events.
-
-We want our community to be able to participate fully. And for everyone who wishes to participate to bring themselves authentically and safely.
-
-### What should I be thinking about?
 
 - Don’t assume you know what access or inclusivity looks like. Remember there’s no such thing as ‘fully accessible’.
 - Make it clear who the space/event is for and how you will prioritise them — transparency is the key to getting it right more often.
