@@ -15,22 +15,24 @@ Originalmente pensamos que ibamos a poder reducir la temática de accesibilidad 
 
 Cuanto más hablamos con compañeres trans y discas, más vimos que no era algo que pudiera simplificarse. Y la mayor parte del tiempo, las soluciones a estas cosas no estaban al alcance de les organizadores de eventos, (quienes muchas veces también son trans o discas).
 
-Por ejemplo: los baños sin distincion de género no sirve de nada si no son también accesibles, si el |staff| es transfóbico, o si el evento no tiene recreos lo suficientemente largos como para que usuaries de sillas de ruedas realmente lleguen a usar los baños.
+Por ejemplo: los baños sin distincion de género no sirven de nada si no son también accesibles, si el |staff| es transfóbico, o si el evento no tiene pausas lo suficientemente largas como para que usuaries de sillas de ruedas realmente lleguen a usar los baños.
 
 Lo único que podemos hacer es intentar mejorar las cosas. Queremos que esto sea un proceso orientado a los cuidados — lo cual significa que la gente no debería sentirse mal por no poder acomodar a todo el mundo, porque igual la accesibilidad universal es un mito. 
 
-Este fanzine entonces apunto a ayudarte a hacer dos cosas:
+Este fanzine entonces apunta a ayudarte a hacer dos cosas:
 
-1. Tener una conversación con tu grupo sobre cómo se ve la accesibilidad para vos – algunos puntos de conversación para su próxima reunión.
-2. Crear una declaración de accesibilidad para compartir con el mundo – este es el punto de partida desde el cual podemos intentar crear un mundo más exlusivo, juntes.
+1. Tener una conversación con tu grupo sobre cómo se ve la accesibilidad para ustedes – algunos puntos de conversación para su próxima reunión.
+2. Crear una declaración de accesibilidad para compartir con el mundo – este es el punto de partida desde el cual podemos intentar crear un mundo más inclusivo, juntes.
 
+### Cosas que la gente ha dicho
+#### Describí una experiencia positiva o validante que tuviste en un evento.
+
+> En el mejor de los casos, fue mediocre. Como una mujer trans no-binaria no puedo esperar más que eso – que no me echen porque resulta que tengo pene y que se me deje ser le únique |f****r| presente.
+
+> Gente simplemente aceptando la identidad que digo que tengo. Eso es todo.
+
+> Cuando les organizadores ofrecen toda la inforamción que pueden para que la gente pueda tomar buenas decisiones.
 <!-- i am a translation line to better track translation progress, hello! -->
-### What people have said
-#### Describe an affirming or positive experience you had at an event.
-
-> The best I've had is mediocre. As an NB trans woman that is basically the best I can hope for – not being thrown out because I happen to have a penis and being allowed to be the only f****r there.
-
-> People just accepting what I say my identity is. That's all. 
 
 > When organisers volunteer as much information as they can so that people are able to make good choices. 
 
