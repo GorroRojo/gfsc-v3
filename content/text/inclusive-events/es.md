@@ -11,20 +11,20 @@ El proyecto fue liderado por __Geeks for Social Change__ en colaboración con __
 Cuando les consultamos a nuestres colaboradores por experiencias validantes o positivas que hayan tenido en eventos, lo que escuchamos fue: "En el mejor de los casos, fue mediocre." Queremos creer que esto no es por una falta de entendimiento y responsabilidad, si no por una falta de recursos y guianza. Ojalá este fanzine ayude.
 
 ## Para qué es este fanzine
+Originalmente pensamos que ibamos a poder reducir la temática de accesibilidad a una serie de preguntas de sí/no sobre cosas como baños y sistemas de bucles de audio.
+
+Cuanto más hablamos con compañeres trans y discas, más vimos que no era algo que pudiera simplificarse. Y la mayor parte del tiempo, las soluciones a estas cosas no estaban al alcance de les organizadores de eventos, (quienes muchas veces también son trans o discas).
+
+Por ejemplo: los baños sin distincion de género no sirve de nada si no son también accesibles, si el |staff| es transfóbico, o si el evento no tiene recreos lo suficientemente largos como para que usuaries de sillas de ruedas realmente lleguen a usar los baños.
+
+Lo único que podemos hacer es intentar mejorar las cosas. Queremos que esto sea un proceso orientado a los cuidados — lo cual significa que la gente no debería sentirse mal por no poder acomodar a todo el mundo, porque igual la accesibilidad universal es un mito. 
+
+Este fanzine entonces apunto a ayudarte a hacer dos cosas:
+
+1. Tener una conversación con tu grupo sobre cómo se ve la accesibilidad para vos – algunos puntos de conversación para su próxima reunión.
+2. Crear una declaración de accesibilidad para compartir con el mundo – este es el punto de partida desde el cual podemos intentar crear un mundo más exlusivo, juntes.
+
 <!-- i am a translation line to better track translation progress, hello! -->
-We originally thought we would be able to boil down accessibility to a few yes/no key questions about things like toilets and hearing loops.
-
-The more we talked to fellow trans and disabled people, the more we found that this wasn’t really a thing that could be simplified. And most of the time, these things were out of the reach of event organizers, (who are often trans and disabled themselves), to do anything about.
-
-For example: gender neutral toilets are no help if they’re not also accessible, the door staff are transphobic, or the event doesn’t have long enough breaks for wheelchair users to actually use them.
-
-All we can really do is try to make things better. We want this to be a care oriented process — that means people shouldn’t feel bad for not being able to accommodate everyone, because universal accessibility is a myth anyway.
-
-This zine therefore aims to help you do two things:
-
-1. Have a conversation with your group about what accessibility looks like for you – some talking points for your next meeting.
-2. Create an accessibility statement to share with the world – this is the starting point from which we can try and create a more inclusive world, together. 
-
 ### What people have said
 #### Describe an affirming or positive experience you had at an event.
 
