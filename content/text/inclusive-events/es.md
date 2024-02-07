@@ -66,34 +66,32 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 
 ### ¿En qué debería estar pensando?
 
+- No asumas que sabés lo que es la accesibilidad o la inclusuvidad. Recordá que no existe ser 'completamente accesible'.
+- Aclará bien para quién es el espacio/evento y cómo les vas a priorizar — la transparencia es clave para lograr hacer bien las cosas más frecuentemente.
+- Mantenete en contacto con tu comunidad para ver si lo que estás haciendo funciona.
 
+> No digas que un lugar es accesible – en su lugar, aclará si tiene o no tiene distintas cosas, así puedo ver si es accesible para mí!
+
+> [cuando pensamos sobre baños] Sobretodo, un baño accesible es uno que está en uso, y no usado de bodega, y que no tenga el hilo de timbre de emergencia atado alto fuera del alcance.
+
+### Antes del evento
+
+- Hace __versiones de fácil lectura__ de la información del evento
+- __Detallá claramente__ las acomodaciones accesibles que va a haber. (No ocultes limitaciones)
+- Aclará tu política de __inclusión de género__
+- Dale a la gente __multiples formas de comunicar__ sus necesidades (incluyendo mail, formulario, mensaje de texto, y en persona en el evento)
+- De ser posible, ofrecé __apoyo económico__ (tanto para quien va al evento, como para su |PA|)
+- Considerá variar los __horarios__ de tus eventos (algunos durante el día, algunos a la tarde)
+- Aclará bien las opciones de __transporte__ (para ir y para volver)
+- Ofrecé ayuda con la __orientación espacial__ por avanzado (considerá un video tour)
+- Aclará si va a haber __alcohol__ en el evento
+- Alentá a que el lugar invierta en __entrenamiento de accesibilidad para el |staff|__ para evitar malentendidos comunes o tratamiento oporesivo.
+- Discutí qué harías en una __emergencia médica__. Algunas cosas a considerar: hay alguien que sepa primeros auxilios? Tienen un kit de primeros auxilios, un epipen, |narcan|, u otras medicaciones de emergencia a mano?
+- Considerá qué situaciones de __salud mental__ pueden surgir en tu evento, y cuál sería tu respuesta. Sé consciente de cómo las crisis de salud mental de algunos grupos marginalizados pueden ser manejados mal por la policía o les médiques de emergencia.
+- ¡No toda la transfobia es igual! __Considerá en qué formas puede que estés excluyendo__ a hombres trans/transmasculinidades, mujeres trans/transfeminidades, y personas no binarias.
+- Aclará qué __precauciones por el COVID__ habrá en el evento si habrá alguna. Sé consciente de que la falta de precauciones por COVID hará a tu evento inaccesible para muchas personas discapacitadas.
+- Preguntale al lugar si tienen __guianza detallada sobre accesibilidad para sillas de ruedas__ — por ejemplo pueden acomodar cualquier silla, o solo las pequeñas manuales?
 <!-- i am a translation line to better track translation progress, hello! -->
-
-- Don’t assume you know what access or inclusivity looks like. Remember there’s no such thing as ‘fully accessible’.
-- Make it clear who the space/event is for and how you will prioritise them — transparency is the key to getting it right more often.
-- Check back in with your community, often, and see if what you’re doing is working.
-
-> Don't just say a venue is accessible – instead, say if it has or does not have different things, and then I can determine if it is accessible for me!
-
-> [when thinking about toilets] Most importantly a disabled access toilet is one that is in use and not filled with storage, and hasn't got its assistance pull-cord tied up out of reach
-
-### Before the event
-
-- Produce __plain English/ easy read__ versions of event information
-- __Clearly outline__ your access accommodations (don’t hide limitations)
-- Clarify your __gender inclusion__ policy
-- Give __multiple ways for people to communicate__ their needs (including email, form, text, and a person at the event)
-- If possible, offer __funding__ (both for the attendee and their PA)
-- Consider varying the __timing__ of your events (some in the day, some in the evening)
-- Make __transport__ options clear (getting to and from)
-- Offer __wayfinding__ support in advance (consider a video tour)
-- Make it very clear if there will be __alcohol__ at the event
-- Encourage your venue to invest in __staff accessibility training__ to avoid common miscommunications and oppressive treatment
-- Discuss what you would do in a __medical emergency__. Some things to consider: is anyone first aid trained? Do you have a first aid kit, epi-pen, narcan, or other emergency meds on hand?
-- Consider what __mental health__ scenarios might arise at your event, and what your response would be. Be aware of how some structurally disadvantaged groups’ MH crises can be mishandled by police and NHS
-- Not all transphobia is the same! __Consider the ways you might be excluding__ trans men/transmasculine people, trans women/transfeminine people, and non binary people.
-- Make it clear what __COVID precautions__ will be taken at the event, if any. Be aware a lack of COVID precautions will make your event inaccessible to many disabled people.
-- Ask the venue if they have __detailed wheelchair accessibility guidance__ — for e.g. can they accommodate any chair, or only smaller manual ones?
 
 ### At the event
 
