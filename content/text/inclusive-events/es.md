@@ -104,13 +104,13 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Preparate para cambiar la __iluminación__, de ser posible
 - Probá y entendé la __acústica__ del espacio. ¿Podés ofrecer algún espacio silencioso?
 - Ofrecé __copias impresas__ de todas las presentaciones y materiales
-<!-- i am a translation line to better track translation progress, hello! -->
-- Encourage __name tags__ (including an option to share if you can’t read them)
-- Offer comfort __breaks__ and make sure they’re long enough for someone to access the toilet and/or refreshments
-- Clearly signpost the __toilets__ (we highly recommend gender neutral changing places toilets as standard)
-- Know and communicate the space’s __emergency protocols__
+- Promocioná el uso de __etiquetas__ con nombre |y pronombre| (incluyendo una opción para |compartirlas| si no podés leerlas|???|)
+- Implementá __recreos__ en las actividades y asegurate que son lo suficientemente largos para que alguien puede acceder al baño o a comidas y bebidas.
+- Señalizá los __baños__ claramente (recomendamos fuertemente |gender neutral changing places toilets| como estándar)
+- Conocé y comunicá los __protocolos de emergencia__ del espacio.
 
-### Some thoughts on accessibility for those who are D/deaf and hard of hearing
+### Consideraciones sobre accesibilidad para quienes son sordes o hipoacúsiques.
+<!-- i am a translation line to better track translation progress, hello! -->
 
 Inclusion and accessibility for the D/deaf community can be one of the most daunting aspects of event accessibility for organisers.
 
