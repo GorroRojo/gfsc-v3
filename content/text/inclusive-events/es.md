@@ -91,20 +91,20 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - ¡No toda la transfobia es igual! __Considerá en qué formas puede que estés excluyendo__ a hombres trans/transmasculinidades, mujeres trans/transfeminidades, y personas no binarias.
 - Aclará qué __precauciones por el COVID__ habrá en el evento si habrá alguna. Sé consciente de que la falta de precauciones por COVID hará a tu evento inaccesible para muchas personas discapacitadas.
 - Preguntale al lugar si tienen __guianza detallada sobre accesibilidad para sillas de ruedas__ — por ejemplo pueden acomodar cualquier silla, o solo las pequeñas manuales?
+
+### Durante el evento
+
+- Pensá en la __bienvenida__ que reciben tus invitades ¿cómo podés hacer que la estructura del evento y sus acomodaciones de accesibilidad estén claros?
+- Conocé y entendé las acomodaciones de __accesibilidad física__ y las limitaciones del espacio (tanto para moverse por el espacio como para participar)
+- Ofrecé __participación remota__ cuando sea posible
+- Asegurate que hay __subtítulos__ para todos los videos y elementos transmitidos durante tu evento
+- Tené consciencia de los __estímulos__ (sonidos, temperatura, multitudes) y ofrecé espacios de bajo estímulo
+- Asegurate de ofrecer una __opciones variadas de asientos__ incluyendo sillas fuertes sin apoyabrazos
+- Tené una __clara navegación__ (señalización con contraste fuerte) y considerá mandar un tour de video antes del evento
+- Preparate para cambiar la __iluminación__, de ser posible
+- Probá y entendé la __acústica__ del espacio. ¿Podés ofrecer algún espacio silencioso?
+- Ofrecé __copias impresas__ de todas las presentaciones y materiales
 <!-- i am a translation line to better track translation progress, hello! -->
-
-### At the event
-
-- Think about the __welcome__ your guests experience — how can you make the event structure and its access accommodations clear?
-- Know and understand the __physical access__ accommodations and limitations of the space (both getting around and participating)
-- Offer __remote participation__ where possible
-- Make sure there are __captions__ on all videos and live streamed elements of your event
-- Be mindful of __stimulation__ (sound, temperature, large groups) and offer quiet spaces
-- Make sure that you offer a variety of __seating__ options including strong chairs without armrests
-- Have clear __wayfinding__ (signage with a strong colour contrast) and consider sending a video tour ahead of time
-- Be ready to change __lighting__, if possible
-- Test and understand the __acoustics__ of the space — can you offer a quiet space?
-- Offer __printed copies__ of all presentations and materials
 - Encourage __name tags__ (including an option to share if you can’t read them)
 - Offer comfort __breaks__ and make sure they’re long enough for someone to access the toilet and/or refreshments
 - Clearly signpost the __toilets__ (we highly recommend gender neutral changing places toilets as standard)
