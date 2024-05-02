@@ -145,44 +145,42 @@ Q1. __Por favor describí los baños del lugar__ y aclará si tu locación tiene
 - Baños accesibles a usuaries de sillas de ruedas
 - Baños para cambiar pañales (ver [changing-places.org](https://changing-places.org) para detalles)
 
-Q2. __Por favor describí la accesibilidad general física del lugar.__ Considerá 
-<!-- i am a translation line to better track translation progress, hello! -->
+Q2. __Por favor describí la accesibilidad general física del lugar.__ Considerá lo que es ingresar, moverse por el espacio, y llegar a los baños u otras areas esenciales.
 
-Q2. __Please describe the venue's general physical accessibility.__ Consider getting into the space, moving around, and getting to toilets or other essential areas. 
+Q3. __¿Cuál es la mejor forma de llegar al lugar?__ Por favor sé específique en cuanto a opciones de transporte público y el camino desde la parada más cercana.
 
-Q3. __What's the best way to get to the venue?__ Please be specific about public transportation options and the route from the nearest stop to the venue. 
+Q4. ¿__Tu locación ofrece espacios para descomprimir__ si invitades o participantes se abruman sensorialmente (espacios silenciosos)? (sí/no)
 
-Q4. __Does your venue offer other spaces to decompress__ if guests or participants are overwhelmed (quiet spaces)? (yes/no)
+### Inclusividad proactiva
+Q5. ¿__Tenés algun punto de contacto dedicado y nombrado__ para necesidades de accesibilidad durante el evento?
 
-### Proactive inclusion 
-Q5. __Do you have a named, dedicated point of contact__ for access needs at the event? (yes/no)
+Q6. ¿__Tenés algún punto de contacto dedicado y nombrado__ para que alguien pueda mandar un correo electrónico después del evento para dar devoluciones? (sí/no)
 
-Q6. __Do you have a named, dedicated point of contact__ that people can email after the event to send feedback? (yes/no)
+Q7. ¿__Qué entrenamiento tiene tu staff/voluntaries?__ Por favor confirmá si van a recibir un enforme sobre las aptitudes y limitaciones de accesibilidad del espacio y de levento.
 
-Q7. __What training have your staff or volunteers had?__ Please confirm if they will be briefed on the accessibility features and limitations of the space and your event. 
+Q8. __¿El evento/organización tiene un código de convivencia o |políticas de 'espacio seguro'|?__ (sí/no)
 
-Q8. __Does the event or organisation have a code of conduct or 'safe spaces' policy?__ (yes/no)
+Q9. __¿Qué situaciones, si las hay, harían que involucres a la policía durante el evento?__
 
-Q9. __What situations, if any, would you involve the police at the event?__
+Q10. __¿Cómo apoya a personas trans\* tu |trabajo|/grupo?
 
-Q10. __How does your work/group support trans people?__
+Q11. __¿Cómo hace tu grupo para incluir personas trans\* y discas en la toma de decisiones?__
 
-Q11. __How is your group including trans and disabled people in decision making?__
+## Agradecimientos
+Texto editado por __Sarah Joynt-Bowe__, __Kim Foale__, y __Emma Charleston__ con el apoyo de  __Gendered Intelligence (GI)__ y la __Greater Manchester Coalition of Disabled People (GMCDP)__
 
-## Acknowledgements 
-Text edited by __Sarah Joynt-Bowe__, __Kim Foale__, and __Emma Charleston__ with support from __Gendered Intelligence (GI)__ and the __Greater Manchester Coalition of Disabled People (GMCDP)__
-
-Branding Design by __Mark Dormand__
-Zine design by __Emma Charleston__
-Illustrations copyright __Harry Woodgate__
-Thanks to __Georgie McVicar, Dennis Queen, David Hayward, Ada
-Cable, Jazz Chatfield, Alexandria,__ and __Katja Morduant__
+Diseño de Branding por __Mark Dormand__
+Diseño de Fanzine por __Emma Charleston__
+Copyright de las ilustraciones __Harry Woodgate__
+Gracias a __Georgie McVicar, Dennis Queen, David Hayward, Ada Cable, Jazz Chatfield, Alexandria,__ and __Katja Morduant__
 © 2022 Geeks for Social Change.
-Zine text: Creative Commons CC0 1.0
-Full zine: Creative Commons BY-NC-SA 4.0
+Texto del fanzine: Creative Commons CC0 1.0
+Fanzine entero: Creative Commons BY-NC-SA 4.0
 
-Disclaimer: this guide does not constitute legal advice, and is accurate to the best of our knowledge as of October 2022. It was created for a UK audience — specifics may differ based on your country.
+Aclaración: esta guía no constituye consejo legal, y es correcta al día de la fecha en Octubre de 2022. Fue creada para un público del Reino Unido, detalles pueden diferir según el territorio.
 
 [transdimension.uk](https://transdimension.uk)  
 [gfsc.studio](https://gfsc.studio)  
 [genderedintelligence.co.uk](https://genderedintelligence.co.uk)
+
+<!-- first draft is done! I've surrounded issues and doubts with "|" that i'll be discussing as soon as I can before declairing it finished -->
