@@ -110,43 +110,43 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Conocé y comunicá los __protocolos de emergencia__ del espacio.
 
 ### Consideraciones sobre accesibilidad para quienes son sordes o hipoacúsiques.
+Inclusividad y accesibilidad para la comunidad sorda puede ser uno de los aspectos más intimidantes de accesibilidad de eventos para organizadores.
+
+Esto es porque, a diferencia de otros aspectos de la organización de accesibilidad (ej. acceso en la locación), hacer un evento accesible para personas sordas e hipoacúsicas está completamente en manos de le organizadore del evento.
+
+Si podés, tener interpretación de lengua de señas es el estandar de oro de accesibilidad para eventos para muches en la comunidad sorda. Si entra dentro de tu presupuesto, deberías apuntar a contratarla.
+
+Sin embargo, ofrecer (y pagar) interpretación de lengua de señas puede ser uno de los gastos más grandes que enfrente une organizadore de eventos (recordemos que para eventos de más de 60 minutos necesitarás al menos dos intérpretes). Estos costos pueden superar el resto de los costos combinados, así que es entendible si se sienten fuera del alcance.
+
+Hay algunas alternativas que siguen dando un buen nivel de apoyo, pero que pueden estar más al alcance de organizadores de eventos más pequeños.
+
+Si tu evento es online, muchos proveedores de streaming online ofrecen subtitulado por IA. No será perfecto pero ¡es mejor que nada!
+
+Para eventos en vivo, o eventos online con más presupuesto, subtitulado manual en vivo sigue siendo más barato que interpretación de lengua de señas, pero más confiable que subtitulado automático.
+
+Cualquier tipo de subtitulado tiene el beneficio de apoyar también a quienes puede que sean hipoacúsiques o que les cueste concentrarse en voces en espacios con muchas personas, pero quizás no sepan lengua de señas.
+
+Al fin y al cabo, deberías consultar directamente con la comunidad sorda que es más probable que vaya a tu evento, para asegurarte que estás apoyandoles lo mejor posible.
+
+### Después del evento
+- Invitá a que te den devoluciones activas por varios canales
+- Dá oportunidades para que hagan conecciones mediante listas de contactos o grupos a los que se puedan unir
+- |Have a key follow up contact for outstanding questions or comments|
+## Parte 2: Revisión de la locación y el grupo
+### Las que siguen son preguntas específicas que le preguntamos a todas las locaciones o grupos que quieren estar listados en el sitio de The Trans Dimension.
+#### Debido a |nuestro enfoque anti-carcelario| hacia la inclusividad (que suele estar fuera de las manos de les |organizadores|), sólo marcamos cosas en las que no recibimos respuestas — el objetivo es hacer que la gente se involucre en el proceso.
+Compartimos aquí estas preguntas como provocaciones y |pensamiento|/temas de conversacion para locaciones y grupos que estén queriendo mejorar su accesibilidad.
+
+Completalas y usalas como punto de partida para tu comunicado de accesibilidad.
+
+### Moviendose
+Q1. __Por favor describí los baños del lugar__ y aclará si tu locación tiene (sí/no):
+- Baños sin distinción de género
+- Baños accesibles a usuaries de sillas de ruedas
+- Baños para cambiar pañales (ver [changing-places.org](https://changing-places.org) para detalles)
+
+Q2. __Por favor describí la accesibilidad general física del lugar.__ Considerá 
 <!-- i am a translation line to better track translation progress, hello! -->
-
-Inclusion and accessibility for the D/deaf community can be one of the most daunting aspects of event accessibility for organisers.
-
-This is because, unlike some other aspects of accessibility planning (e.g. venue access), making an event accessible for D/deaf and hard of hearing people is entirely within the hands of the event organiser.
-
-If you can manage it, BSL interpretation is the goldstandard of event accessibility for many in the D/deaf community. If it is possible for you to provide this within your budget, you should absolutely strive for it.
-
-However, offering (and paying for) BSL interpretation can be one of the biggest ticket expenses that any event organiser will face (remember that for events longer than 60 minutes you will need at least two interpreters). Often these costs can add up to more than everything else in the event combined, so it is understandable that this may feel out of reach for many promoters.
-
-There are some alternatives which still provide a good level of support, but may be more within the reach of smaller event hosts.
-
-If your event is online, many of the biggest online streaming providers offer AI-captioning. It may not be perfect, but it’s better than nothing!
-
-For live events, or online events with a bigger budget, human-typed live captions are still cheaper than BSL interpretation, but more reliable than AI captioning.
-
-Captioning of any kind has the added bonus of supporting those who may be lightly hard of hearing, or struggle to focus on voices in crowded spaces, but don’t necessarily know BSL.
-
-Ultimately, you should consult directly with the D/deaf community who are likely to be coming to your event, in order to ensure that you re supporting them to the best of your abilities.
-
-### After the event
-- Welcome active feedback from attendees via multiple channels
-- Give opportunities to make connections via contact lists or groups to join
-- Have a key follow up contact for outstanding questions or comments
-
-## Part 2: Venue and group audit
-### The following are the specific questions we ask all venues or groups who wish to be listed on The Trans Dimension site. 
-#### Given our non-carceral approach to inclusion (which is often out of promoters hands), we will only flag things if an answer has not been provided — the goal is to get people to engage in the process.
-We share these questions here as provocations and thinking/talking points for venues and groups who are seeking to improve their accessibility.
-
-Fill them out, and use them as the starting point for your accessibility statement.
-
-### Getting around 
-Q1. __Please describe the venue's toilets__ and clarify if your venue has (yes/no): 
-- Gender neutral toilets
-- Wheelchair accessible toilets
-- Changing Places toilets (see [changing-places.org](https://changing-places.org) for more detail)
 
 Q2. __Please describe the venue's general physical accessibility.__ Consider getting into the space, moving around, and getting to toilets or other essential areas. 
 
