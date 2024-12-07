@@ -27,7 +27,7 @@ Este fanzine entonces apunta a ayudarte a hacer dos cosas:
 ### Cosas que la gente ha dicho
 #### Describí una experiencia positiva o validante que tuviste en un evento.
 
-> En el mejor de los casos, fue mediocre. Como una mujer trans no-binaria no puedo esperar más que eso – que no me echen porque resulta que tengo pene y que se me deje ser le únique |f****r| presente.
+> En el mejor de los casos, fue mediocre. Como una mujer trans no-binaria no puedo esperar más que eso – que no me echen porque resulta que tengo pene, y que se me deje ser le únique trole presente.
 
 > Gente simplemente aceptando la identidad que digo que tengo. Eso es todo.
 
@@ -132,11 +132,11 @@ Al fin y al cabo, deberías consultar directamente con la comunidad sorda que es
 ### Después del evento
 - Invitá a que te den devoluciones activas por varios canales
 - Dá oportunidades para que hagan conecciones mediante listas de contactos o grupos a los que se puedan unir
-- |Have a key follow up contact for outstanding questions or comments|
+- Tené un contacto para recibir dudas o comentarios restantes
 
 ## Parte 2: Revisión de la locación y el grupo
 ### Las que siguen son preguntas específicas que le preguntamos a todas las locaciones o grupos que quieren estar listados en el sitio de The Trans Dimension.
-#### Debido a |nuestro enfoque anti-carcelario| hacia la inclusividad (que suele estar fuera de las manos de les |organizadores|), sólo marcamos cosas en las que no recibimos respuestas — el objetivo es hacer que la gente se involucre en el proceso.
+#### Debido a nuestro enfoque anti-punitivista hacia la inclusividad (que suele estar fuera de las manos de les representantes de los espacios), sólo marcamos cosas en las que no recibimos respuestas — el objetivo es hacer que la gente se involucre en el proceso.
 Compartimos estas preguntas a modo de llamado a la reflexión y a la conversación con locaciones y grupos que estén queriendo mejorar su accesibilidad.
 
 Completalas y usalas como punto de partida para tu comunicado de accesibilidad.
@@ -160,7 +160,7 @@ Q6. ¿__Tenés algún punto de contacto dedicado y nombrado__ para que alguien p
 
 Q7. ¿__Qué entrenamiento tiene tu staff/voluntaries?__ Por favor confirmá si van a recibir un enforme sobre las aptitudes y limitaciones de accesibilidad del espacio y de levento.
 
-Q8. __¿El evento/organización tiene un código de convivencia o |políticas de 'espacio seguro'|?__ (sí/no)
+Q8. __¿El evento/organización tiene un código de convivencia o políticas de 'espacio cuidado'?__ (sí/no)
 
 Q9. __¿Qué situaciones, si las hay, harían que involucres a la policía durante el evento?__
 
