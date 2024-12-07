@@ -15,7 +15,7 @@ Originalmente pensamos que ibamos a poder reducir la temática de accesibilidad 
 
 Cuanto más hablamos con compañeres trans y discas, más vimos que no era algo que pudiera simplificarse. Y la mayor parte del tiempo, las soluciones a estas cosas no estaban al alcance de les organizadores de eventos, (quienes muchas veces también son trans o discas).
 
-Por ejemplo: los baños sin distincion de género no sirven de nada si no son también accesibles, si el |staff| es transfóbico, o si el evento no tiene pausas lo suficientemente largas como para que usuaries de sillas de ruedas realmente lleguen a usar los baños.
+Por ejemplo: los baños sin distincion de género no sirven de nada si no son también accesibles, si el personal es transfóbico, o si el evento no tiene pausas lo suficientemente largas como para que usuaries de sillas de ruedas realmente lleguen a usar los baños.
 
 Lo único que podemos hacer es intentar mejorar las cosas. Queremos que esto sea un proceso orientado a los cuidados — lo cual significa que la gente no debería sentirse mal por no poder acomodar a todo el mundo, porque igual la accesibilidad universal es un mito. 
 
@@ -85,8 +85,8 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Aclará bien las opciones de __transporte__ (para ir y para volver)
 - Ofrecé ayuda con la __orientación espacial__ por avanzado (considerá un video tour)
 - Aclará si va a haber __alcohol__ en el evento
-- Alentá a que el lugar invierta en __entrenamiento de accesibilidad para el |staff|__ para evitar malentendidos comunes o tratamiento oporesivo.
-- Discutí qué harías en una __emergencia médica__. Algunas cosas a considerar: hay alguien que sepa primeros auxilios? Tienen un kit de primeros auxilios, un epipen, |narcan|, u otras medicaciones de emergencia a mano?
+- Alentá a que el lugar invierta en __entrenamiento de accesibilidad para el personal__ para evitar malentendidos comunes o tratamiento oporesivo.
+- Discutí qué harías en una __emergencia médica__. Algunas cosas a considerar: hay alguien que sepa primeros auxilios? Tienen un kit de primeros auxilios, un epipen, narcan, u otras medicaciones de emergencia a mano?
 - Considerá qué situaciones de __salud mental__ pueden surgir en tu evento, y cuál sería tu respuesta. Sé consciente de cómo las crisis de salud mental de algunos grupos marginalizados pueden ser manejados mal por la policía o les médiques de emergencia.
 - ¡No toda la transfobia es igual! __Considerá en qué formas puede que estés excluyendo__ a hombres trans/transmasculinidades, mujeres trans/transfeminidades, y personas no binarias.
 - Aclará qué __precauciones por el COVID__ habrá en el evento si habrá alguna. Sé consciente de que la falta de precauciones por COVID hará a tu evento inaccesible para muchas personas discapacitadas.
@@ -104,12 +104,13 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Preparate para cambiar la __iluminación__, de ser posible
 - Probá y entendé la __acústica__ del espacio. ¿Podés ofrecer algún espacio silencioso?
 - Ofrecé __copias impresas__ de todas las presentaciones y materiales
-- Promocioná el uso de __etiquetas__ con nombre |y pronombre| (incluyendo una opción para |compartirlas| si no podés leerlas|???|)
+- Promocioná el uso de __etiquetas__ con nombre y pronombre/s (incluyendo una opción para |compartirlas| si no podés leerlas|???|)
 - Implementá __recreos__ en las actividades y asegurate que son lo suficientemente largos para que alguien puede acceder al baño o a comidas y bebidas.
-- Señalizá los __baños__ claramente (recomendamos fuertemente |gender neutral changing places toilets| como estándar)
+- Señalizá los __baños__ claramente (recomendamos fuertemente tener cambiadores para bebés en baños sin distinción de género como estándar)
 - Conocé y comunicá los __protocolos de emergencia__ del espacio.
 
 ### Consideraciones sobre accesibilidad para quienes son sordes o hipoacúsiques.
+
 Inclusividad y accesibilidad para la comunidad sorda puede ser uno de los aspectos más intimidantes de accesibilidad de eventos para organizadores.
 
 Esto es porque, a diferencia de otros aspectos de la organización de accesibilidad (ej. acceso en la locación), hacer un evento accesible para personas sordas e hipoacúsicas está completamente en manos de le organizadore del evento.
@@ -132,10 +133,11 @@ Al fin y al cabo, deberías consultar directamente con la comunidad sorda que es
 - Invitá a que te den devoluciones activas por varios canales
 - Dá oportunidades para que hagan conecciones mediante listas de contactos o grupos a los que se puedan unir
 - |Have a key follow up contact for outstanding questions or comments|
+
 ## Parte 2: Revisión de la locación y el grupo
 ### Las que siguen son preguntas específicas que le preguntamos a todas las locaciones o grupos que quieren estar listados en el sitio de The Trans Dimension.
 #### Debido a |nuestro enfoque anti-carcelario| hacia la inclusividad (que suele estar fuera de las manos de les |organizadores|), sólo marcamos cosas en las que no recibimos respuestas — el objetivo es hacer que la gente se involucre en el proceso.
-Compartimos aquí estas preguntas como provocaciones y |pensamiento|/temas de conversacion para locaciones y grupos que estén queriendo mejorar su accesibilidad.
+Compartimos estas preguntas a modo de llamado a la reflexión y a la conversación con locaciones y grupos que estén queriendo mejorar su accesibilidad.
 
 Completalas y usalas como punto de partida para tu comunicado de accesibilidad.
 
@@ -162,7 +164,7 @@ Q8. __¿El evento/organización tiene un código de convivencia o |políticas de
 
 Q9. __¿Qué situaciones, si las hay, harían que involucres a la policía durante el evento?__
 
-Q10. __¿Cómo apoya a personas trans\* tu |trabajo|/grupo?
+Q10. __¿Cómo apoya a personas trans\* tu trabajo/grupo?
 
 Q11. __¿Cómo hace tu grupo para incluir personas trans\* y discas en la toma de decisiones?__
 
