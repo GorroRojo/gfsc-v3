@@ -80,7 +80,7 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - __Detallá claramente__ las acomodaciones accesibles que va a haber. (No ocultes limitaciones)
 - Aclará tu política de __inclusión de género__
 - Dale a la gente __multiples formas de comunicar__ sus necesidades (incluyendo mail, formulario, mensaje de texto, y en persona en el evento)
-- De ser posible, ofrecé __apoyo económico__ (tanto para quien va al evento, como para su |PA|)
+- De ser posible, ofrecé __apoyo económico__ (tanto para quien va al evento, como para su AT)
 - Considerá variar los __horarios__ de tus eventos (algunos durante el día, algunos a la tarde)
 - Aclará bien las opciones de __transporte__ (para ir y para volver)
 - Ofrecé ayuda con la __orientación espacial__ por avanzado (considerá un video tour)
@@ -104,7 +104,7 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Preparate para cambiar la __iluminación__, de ser posible
 - Probá y entendé la __acústica__ del espacio. ¿Podés ofrecer algún espacio silencioso?
 - Ofrecé __copias impresas__ de todas las presentaciones y materiales
-- Promocioná el uso de __etiquetas__ con nombre y pronombre/s (incluyendo una opción para |compartirlas| si no podés leerlas|???|)
+- Promocioná el uso de __etiquetas__ con nombre y pronombre/s (incluyendo poder avisar si no podés leerlas)
 - Implementá __recreos__ en las actividades y asegurate que son lo suficientemente largos para que alguien puede acceder al baño o a comidas y bebidas.
 - Señalizá los __baños__ claramente (recomendamos fuertemente tener cambiadores para bebés en baños sin distinción de género como estándar)
 - Conocé y comunicá los __protocolos de emergencia__ del espacio.
@@ -184,5 +184,3 @@ Aclaración: esta guía no constituye consejo legal, y es correcta al día de la
 [transdimension.uk](https://transdimension.uk)  
 [gfsc.studio](https://gfsc.studio)  
 [genderedintelligence.co.uk](https://genderedintelligence.co.uk)
-
-<!-- first draft is done! I've surrounded issues and doubts with "|" that i'll be discussing as soon as I can before declairing it finished -->
