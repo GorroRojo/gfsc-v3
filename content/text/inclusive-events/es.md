@@ -8,7 +8,7 @@ Fue producido por y para personas TTNB y discas.
 
 El proyecto fue liderado por __Geeks for Social Change__ en colaboración con __Sarah Joynt-Bowe__ de Prosocial Strat y fue profundamente informado por las contribuciones generosas y atentas de parte de voluntaries y seguidores de __Gendered Intelligence__ y de miembres de __Greater Manchester Coalition of Disabled People__. 
 
-Cuando les consultamos a nuestres colaboradores por experiencias validantes o positivas que hayan tenido en eventos, lo que escuchamos fue: "En el mejor de los casos, fue mediocre." Queremos creer que esto no es por una falta de entendimiento y responsabilidad, si no por una falta de recursos y guianza. Ojalá este fanzine ayude.
+Cuando les consultamos a nuestres colaboradores por experiencias validantes o positivas que hayan tenido en eventos, lo que escuchamos fue: "En el mejor de los casos, fue mediocre." Queremos creer que esto no es por una falta de entendimiento y responsabilidad, si no por una falta de recursos y guia. Ojalá este fanzine ayude.
 
 ## Para qué es este fanzine
 Originalmente pensamos que ibamos a poder reducir la temática de accesibilidad a una serie de preguntas de sí/no sobre cosas como baños y sistemas de bucles de audio.
@@ -31,17 +31,17 @@ Este fanzine entonces apunta a ayudarte a hacer dos cosas:
 
 > Gente simplemente aceptando la identidad que digo que tengo. Eso es todo.
 
-> Cuando les organizadores ofrecen toda la inforamción posible para que la gente pueda tomar mejores decisiones.
+> Cuando les organizadores ofrecen toda la información posible para que la gente pueda tomar mejores decisiones.
 
 > ¡Baños sin distinción de género! Todes te dicen sus pronombres.
 
 #### Si te sentís cómode, describí una mala experiencia que tuviste en un evento.
 
-> Donde sea que vaya donde mi nombre se cuestionado, es suficiente para que yo sepa si es inclusivo.
+> Donde sea que vaya donde me cuestionan mi nombre, me es suficiente para que yo sepa si es inclusivo.
 
 > Parades en un bar con une amigue, una persona se nos acerca y pregunta si soy tv o rd [travesti o cross-dresser], luego me pregunta si soy pre o post-op. Literalmente estoy tomando algo con une amigue.
 
-#### Qué más tenemos que saber sobre hacer que los eventos sean más inclusivos a personas trans?
+#### ¿Qué más tenemos que saber sobre hacer que los eventos sean más inclusivos a personas trans?
 
 > La accesibilidad no se trata solamente del espacio físico. A veces se trata de la actitud de la gente dentro.
 
@@ -60,7 +60,7 @@ Lo único que podemos hacer es acercarnos al tema con transparencia y con cuidad
 
 ### ¿Qué es la accesibilidad?
 
-La accesibilidad se trata de distribuir el trabajo. Las personas en nuestras comunidades ya están haciendo un esfuerzo extra para acceder a espacios todos los días. Nuestro trabajo es bajar las barreras de participacion para nuestros grupos y eventos.
+La accesibilidad se trata de distribuir el trabajo. Las personas en nuestras comunidades ya están haciendo un esfuerzo extra para acceder a espacios todos los días. Nuestro trabajo es bajar las barreras a participacion para nuestros grupos y eventos.
 
 Queremos una comunidad capaz de participar por completo. Y que todes quienes quieran participar puedan asistir de forma auténtica y segura.
 
@@ -85,12 +85,12 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Aclará bien las opciones de __transporte__ (para ir y para volver)
 - Ofrecé ayuda con la __orientación espacial__ por avanzado (considerá un video tour)
 - Aclará si va a haber __alcohol__ en el evento
-- Alentá a que el lugar invierta en __entrenamiento de accesibilidad para el personal__ para evitar malentendidos comunes o tratamiento oporesivo.
+- Alentá a que el lugar invierta en __entrenamiento de accesibilidad para el personal__ para evitar malentendidos comunes o tratamiento opresivo.
 - Discutí qué harías en una __emergencia médica__. Algunas cosas a considerar: hay alguien que sepa primeros auxilios? Tienen un kit de primeros auxilios, un epipen, narcan, u otras medicaciones de emergencia a mano?
 - Considerá qué situaciones de __salud mental__ pueden surgir en tu evento, y cuál sería tu respuesta. Sé consciente de cómo las crisis de salud mental de algunos grupos marginalizados pueden ser manejados mal por la policía o les médiques de emergencia.
 - ¡No toda la transfobia es igual! __Considerá en qué formas puede que estés excluyendo__ a hombres trans/transmasculinidades, mujeres trans/transfeminidades, y personas no binarias.
-- Aclará qué __precauciones por el COVID__ habrá en el evento si habrá alguna. Sé consciente de que la falta de precauciones por COVID hará a tu evento inaccesible para muchas personas discapacitadas.
-- Preguntale al lugar si tienen __guianza detallada sobre accesibilidad para sillas de ruedas__ — por ejemplo pueden acomodar cualquier silla, o solo las pequeñas manuales?
+- Aclará qué __precauciones por el COVID__ habrá en el evento si habrá alguna. Sé consciente de que la falta de precauciones por COVID hará a tu evento inaccesible para muchas personas con discapacidad.
+- Preguntale al lugar si tienen __directrices detalladas sobre accesibilidad para sillas de ruedas__ — por ejemplo pueden acomodar cualquier silla, o solo las pequeñas manuales?
 
 ### Durante el evento
 
@@ -99,7 +99,7 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 - Ofrecé __participación remota__ cuando sea posible
 - Asegurate que hay __subtítulos__ para todos los videos y elementos transmitidos durante tu evento
 - Tené consciencia de los __estímulos__ (sonidos, temperatura, multitudes) y ofrecé espacios de bajo estímulo
-- Asegurate de ofrecer una __opciones variadas de asientos__ incluyendo sillas fuertes sin apoyabrazos
+- Asegurate de ofrecer __opciones variadas de asientos__ incluyendo sillas fuertes sin apoyabrazos
 - Tené una __clara navegación__ (señalización con contraste fuerte) y considerá mandar un tour de video antes del evento
 - Preparate para cambiar la __iluminación__, de ser posible
 - Probá y entendé la __acústica__ del espacio. ¿Podés ofrecer algún espacio silencioso?
@@ -111,7 +111,7 @@ Queremos una comunidad capaz de participar por completo. Y que todes quienes qui
 
 ### Consideraciones sobre accesibilidad para quienes son sordes o hipoacúsiques.
 
-Inclusividad y accesibilidad para la comunidad sorda puede ser uno de los aspectos más intimidantes de accesibilidad de eventos para organizadores.
+La inclusividad y accesibilidad para la comunidad sorda puede ser uno de los aspectos más intimidantes de accesibilidad de eventos para organizadores.
 
 Esto es porque, a diferencia de otros aspectos de la organización de accesibilidad (ej. acceso en la locación), hacer un evento accesible para personas sordas e hipoacúsicas está completamente en manos de le organizadore del evento.
 
@@ -121,7 +121,7 @@ Sin embargo, ofrecer (y pagar) interpretación de lengua de señas puede ser uno
 
 Hay algunas alternativas que siguen dando un buen nivel de apoyo, pero que pueden estar más al alcance de organizadores de eventos más pequeños.
 
-Si tu evento es online, muchos proveedores de streaming online ofrecen subtitulado por IA. No será perfecto pero ¡es mejor que nada!
+Si tu evento es online, muches proveedores de streaming online ofrecen subtitulado por IA. No será perfecto pero ¡es mejor que nada!
 
 Para eventos en vivo, o eventos online con más presupuesto, subtitulado manual en vivo sigue siendo más barato que interpretación de lengua de señas, pero más confiable que subtitulado automático.
 
@@ -135,13 +135,13 @@ Al fin y al cabo, deberías consultar directamente con la comunidad sorda que es
 - Tené un contacto para recibir dudas o comentarios restantes
 
 ## Parte 2: Revisión de la locación y el grupo
-### Las que siguen son preguntas específicas que le preguntamos a todas las locaciones o grupos que quieren estar listados en el sitio de The Trans Dimension.
+### Las que vienen ahora son preguntas específicas que le preguntamos a todas las locaciones o grupos que quieren estar listados en el sitio de The Trans Dimension.
 #### Debido a nuestro enfoque anti-punitivista hacia la inclusividad (que suele estar fuera de las manos de les representantes de los espacios), sólo marcamos cosas en las que no recibimos respuestas — el objetivo es hacer que la gente se involucre en el proceso.
 Compartimos estas preguntas a modo de llamado a la reflexión y a la conversación con locaciones y grupos que estén queriendo mejorar su accesibilidad.
 
 Completalas y usalas como punto de partida para tu comunicado de accesibilidad.
 
-### Moviendose
+### Movimiento
 Q1. __Por favor describí los baños del lugar__ y aclará si tu locación tiene (sí/no):
 - Baños sin distinción de género
 - Baños accesibles a usuaries de sillas de ruedas
@@ -151,20 +151,20 @@ Q2. __Por favor describí la accesibilidad general física del lugar.__ Consider
 
 Q3. __¿Cuál es la mejor forma de llegar al lugar?__ Por favor sé específique en cuanto a opciones de transporte público y el camino desde la parada más cercana.
 
-Q4. ¿__Tu locación ofrece espacios para descomprimir__ si invitades o participantes se abruman sensorialmente (espacios silenciosos)? (sí/no)
+Q4. __¿Tu locación ofrece espacios para descomprimir__ si invitades o participantes se abruman sensorialmente (espacios silenciosos)? (sí/no)
 
 ### Inclusividad proactiva
-Q5. ¿__Tenés algun punto de contacto dedicado y nombrado__ para necesidades de accesibilidad durante el evento?
+Q5. __¿Tenés algun punto de contacto dedicado y nombrado__ para necesidades de accesibilidad durante el evento?
 
-Q6. ¿__Tenés algún punto de contacto dedicado y nombrado__ para que alguien pueda mandar un correo electrónico después del evento para dar devoluciones? (sí/no)
+Q6. __¿Tenés algún punto de contacto dedicado y nombrado__ para que alguien pueda mandar un correo electrónico después del evento para dar devoluciones? (sí/no)
 
-Q7. ¿__Qué entrenamiento tiene tu staff/voluntaries?__ Por favor confirmá si van a recibir un enforme sobre las aptitudes y limitaciones de accesibilidad del espacio y de levento.
+Q7. __¿Qué entrenamiento tiene tu personal/voluntaries?__ Por favor confirmá si van a recibir un informe sobre las aptitudes y limitaciones de accesibilidad del espacio y del evento.
 
 Q8. __¿El evento/organización tiene un código de convivencia o políticas de 'espacio cuidado'?__ (sí/no)
 
 Q9. __¿Qué situaciones, si las hay, harían que involucres a la policía durante el evento?__
 
-Q10. __¿Cómo apoya a personas trans\* tu trabajo/grupo?
+Q10. __¿Cómo apoya a personas trans\* tu trabajo/grupo?__
 
 Q11. __¿Cómo hace tu grupo para incluir personas trans\* y discas en la toma de decisiones?__
 
